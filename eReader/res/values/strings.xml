@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open_file">Open The File</string>
+    <string name="exit">Exit</string>
+    <string name="up_one_level">..(Return the previous directory)</string>
+    <string name="current_dir">.(Refresh)</string>
+    <string name="set_font_color">Text Color</string>
+    <string name="set_font_size">Text Size</string>
+    <string name="set_screen_light">Screen Brightness</string>
+    <string name="set_background">Background Theme</string>
+    <string name="set_page_effect">Flip Animation</string>
+    <string name="mode_paper">Paper Mode</string>
+    <string name="mode_slide">Slide Mode</string>
+
+</resources>
